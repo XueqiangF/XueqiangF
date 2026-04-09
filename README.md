@@ -3,7 +3,7 @@
 ⛹️ ⛹️‍♂️ ⛹️‍♀️ ⛹️ ⛹️‍♂️ ⛹️‍♀️ ⛹️ ⛹️‍♂️ ⛹️‍♀️ ⛹️ ⛹️‍♂️ ⛹️‍♀️ ⛹️ ⛹️‍♂️ ⛹️‍♀️ ⛹️ ⛹️‍♂️ ⛹️‍♀️
 
 
-🔭 I'm Xueqiang Fan
+🔭 I'm Xueqiang Fan. 
 My current research interests include Polarization Imaging, Object Detection, Computational Imaging, Computational Biology, Deep Learning.
 
 📫 How to contact with me: xstrongf@163.com or fanxueqqqiang@gmail.com 
